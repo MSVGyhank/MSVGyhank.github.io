@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "de-DE",
     baseUrl: "MSVGyhank.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
