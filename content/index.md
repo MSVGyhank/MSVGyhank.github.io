@@ -30,11 +30,6 @@ Unser Ziel ist es, die echte und digitale Welt durch kreatives, kritisches und d
 Wir bilden einen Raum und eine Gemeinschaft, in der sich jeder individuell entfalten kann, was die Grundlage bildet, worin jeder die Fähigkeit der Selbstmotivation und Selbstverwirklichung ausbaut.
 
 ## ⌛Monatsplan
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/monatsplan/#monat-febraur-2025" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 ### Monat: Febraur 2025
 
 | Datum      | Ort/Raum              | Zeit/Dauer     | Thema                                                                                                                                                                                                                         |
@@ -48,11 +43,6 @@ Wir bilden einen Raum und eine Gemeinschaft, in der sich jeder individuell entfa
 >[!info]
 > *7. bis 8. Stunde* => 14:20-15:55 Uhr
 > *9. bis 10. Stunde* => 16:00-17:30 Uhr  
-
-</div></div>
-
-
-
 ## 👥 Mitglieder
 
 
