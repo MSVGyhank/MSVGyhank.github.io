@@ -8,18 +8,18 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🗻 MSV",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "de-DE",
+    baseUrl: "MSVGyhank.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: false,
+    generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -57,6 +57,7 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
+      Plugin.HardLineBreaks(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
       }),
@@ -67,7 +68,7 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
