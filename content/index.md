@@ -1,7 +1,7 @@
 ---
 {"title":"Die Medienselbstverbesserungs-AG","publish":true,"path":"index.md","permalink":"/index/","PassFrontmatter":true}
 ---
-[><div data-nosnippet>[!info]</div>
+>[!info]
 > Willkommen auf der offiziellen Website der **Medienselbstverbesserungs-AG** des [Gymnasium Hankensbüttel](https://gyhank.de/html/index.html)!
 
 >[!Abstract] Wichtiges
@@ -28,7 +28,6 @@ Solange du einen Willen hast, dich in allen Aspekten deines Lebens weiterzuentwi
 
 Es steht jedem (**ab Jg. 8**) frei, bei unseren Terminen reinzuschnuppern um über den Beitritt in unsere Gemeinschaft zu entscheiden. Rückfragen oder Anliegen sind dabei an <a href="mailto:aydrian.diz@gyhank.de">Aydrian Diz</a> zu richten.
 Wir freuen uns auf dich!
-
 
 ## ⌛Monatsplan
 ### Monat: Febraur 2025
