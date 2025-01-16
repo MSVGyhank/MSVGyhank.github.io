@@ -2,20 +2,18 @@
 {"title":"Die Medienselbstverbesserungs-AG","publish":true,"path":"index.md","permalink":"/index/","PassFrontmatter":true}
 ---
 
-
-
 > [!info]
 > Willkommen auf der offiziellen Website der **Medienselbstverbesserungs-AG** des [Gymnasium Hankensbüttel](https://gyhank.de/html/index.html)!
 
 >[!Abstract] Wichtiges
 >**Wann?**
->Jeden Freitag in der 7. und 8. Stunde. Auf Absprache auch in der 9. und 10. (siehe [[Monatsplan\|Monatsplan]])
+>Jeden Freitag in der 7. und 8. Stunde. Auf Absprache auch in der 9. und 10. (siehe [[Monatsplan]])
 > 
 > **Wo?**
 > TBA
 >
 > **Wer?**
-> Jahrgang 8-13, siehe [[Teilnehmerliste\|Teilnehmerliste]]
+> Jahrgang 8-13, siehe [[Teilnehmerliste]]
 > 
 > **Kontakt?**
 > *Whatsapp Community:*
@@ -24,10 +22,11 @@
 
 ---
 ## 👋 Über uns
-Wir sind das [[Liste der Mitglieder\|Team]] der **MSV-AG**. 
-Die jungen Generationen sind die Zukunft einer immer rasanter-veränderten Welt. Deswegen ist es für uns umso wichtiger, dass wir uns mit der Zukunft auseinandersetzen und dafür arbeiten, dass wir am Steuer sitzen, statt es einer unbekümmerten Welt zu überlassen.
-Unser Ziel ist es, die echte und digitale Welt durch kreatives, kritisches und diszipliniertes Denken und Handeln zu meistern. Wir bilden eine Gemeinschaft, die allen den Raum und die Werkzeuge gibt, ihre Träume zu realisieren, indem sie ihre Umgebung effizient nutzen. Gemeinsam behandeln wir Themen der Selbstverbesserung, Produktivität, Philosophie, Ethik, Informatik, Content Creation, Medien und künstlicher Intelligenz. Unsere Aktivitäten orientieren sich dabei an den Interessen unserer Miglieder mit dem Potenzial, alle möglichen Unterthemen zu untersuchen, sodass ja keine Lücke offen bleibt.
+Wir sind das [[Liste der Mitglieder|Team]] der **MSV-AG**. 
+Die jungen Generationen sind die Zukunft einer immer rasanter-verändernden Welt. Deswegen ist es für uns umso wichtiger, dass wir uns mit der Zukunft auseinandersetzen und dafür arbeiten, dass wir am Steuer sitzen, statt es einer unbekümmerten Welt zu überlassen.
+Unser Ziel ist es, die echte und digitale Welt durch kreatives, kritisches und tiefes Denken und Handeln zu meistern. Wir bilden eine Gemeinschaft, die allen den Raum und die Werkzeuge gibt, ihre Träume zu realisieren, indem sie ihre Umgebung effizient und produktiv nutzen. Gemeinsam behandeln wir Themen wie Selbstverbesserung, Sport und Fitness, Disziplin,  Produktivität, Spiritualität, Religion, Philosophie, Ethik, Informatik, Content Creation, Medien und künstlicher Intelligenz. Unsere Aktivitäten orientieren sich dabei an den Interessen unserer Miglieder mit dem Potenzial, alle möglichen Unterthemen zu untersuchen, sodass ja keine Lücke offen bleibt.
 Wir bilden einen Raum und eine Gemeinschaft, in der sich jeder individuell entfalten kann, was die Grundlage bildet, worin jeder die Fähigkeit der Selbstmotivation und Selbstverwirklichung ausbaut.
+
 
 ## ⌛Monatsplan
 ### Monat: Febraur 2025
