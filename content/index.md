@@ -30,7 +30,7 @@ Es steht jedem (**ab Jg. 8**) frei, bei unseren Terminen reinzuschnuppern um üb
 Wir freuen uns auf dich!
 
 ## ⌛Monatsplan
-### Monat: Febraur 2025
+### Monat: Februar 2025
 
 | Datum      | Ort / Raum            | Zeit / Dauer   | <br><div style="width:500px">Themen</div><br>                                                                                                                                                                                 |
 | ---------- | --------------------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
