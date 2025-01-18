@@ -6,7 +6,7 @@
 
 >[!Abstract] Wichtiges
 >**Wann?**
->Jeden Freitag in der 7. und 8. Stunde. Auf Absprache auch in der 9. und 10. (siehe [[Monatsplan]])
+>Jeden Freitag in der 7. und 8. Stunde. Auf Absprache auch in der 9. und 10. (siehe [[index#⌛ Monatsplan|Monatsplan]])
 > 
 > **Wo?**
 > *Noch festzulegen...*, [Gymnasium Hankensbüttel](https://gyhank.de/html/index.html) **=> Wir halten euch auf dem Laufenden!**
@@ -29,8 +29,8 @@ Solange du einen Willen hast, dich in allen Aspekten deines Lebens weiterzuentwi
 Es steht jedem (**ab Jg. 8**) frei, bei unseren Terminen reinzuschnuppern um über den Beitritt in unsere Gemeinschaft zu entscheiden. Rückfragen oder Anliegen sind dabei an <a href="mailto:aydrian.diz@gyhank.de">Aydrian Diz</a> zu richten.
 Wir freuen uns auf dich!
 
-## ⌛Monatsplan
-### Monat: Febraur 2025
+## ⌛ Monatsplan
+### Monat: Februar 2025
 
 | Datum      | Ort / Raum            | Zeit / Dauer   | <br><div style="width:500px">Themen</div><br>                                                                                                                                                                                 |
 | ---------- | --------------------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
