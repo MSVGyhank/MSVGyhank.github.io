@@ -2,11 +2,12 @@
 {"title":"Die Medienselbstverbesserungs-AG","publish":true,"path":"index.md","permalink":"/index/","PassFrontmatter":true}
 ---
 >[!info]
-> Willkommen auf der offiziellen Website der **Medienselbstverbesserungs-AG** des [Gymnasium Hankensbüttel](https://gyhank.de/html/index.html)!
+> Willkommen auf der offiziellen Website der **Medienselbstverbesserungs-AG** am
+>  [Gymnasium Hankensbüttel](https://gyhank.de/html/index.html)!
 
 >[!Abstract] Wichtiges
 >**Wann?**
->Jeden Freitag in der 7. und 8. Stunde. Auf Absprache auch in der 9. und 10. (siehe [[Monatsplan]])
+>Jeden Freitag in der 7. und 8. Stunde. Auf Absprache auch in der 9. und 10. (siehe [[index#⌛Monatsplan|Monatsplan]])
 > 
 > **Wo?**
 > *Noch festzulegen...*, [Gymnasium Hankensbüttel](https://gyhank.de/html/index.html) **=> Wir halten euch auf dem Laufenden!**
