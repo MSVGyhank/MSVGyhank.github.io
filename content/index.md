@@ -74,3 +74,6 @@ Wir freuen uns auf dich!
 > [!quote] Zitat
 > “All in or all out. Fence sitters will inevitably tip to one side, such is life. Choose, before your hand is forced.” 
 > *~ Redrix/OTG*
+
+---
+![[MSVPosterNoWhatsapp.png]]
