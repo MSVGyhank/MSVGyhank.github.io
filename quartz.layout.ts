@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Gymnasium Hankensbüttel": "https://gyhank.de"
+      "Gymnasium Hankensbüttel": "https://gyhank.de",
 	  "Quellcode (GitHub)": "https://github.com/MSVGyhank/MSVGyhank.github.io"
     },
   }),

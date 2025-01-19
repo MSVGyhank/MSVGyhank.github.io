@@ -1,5 +1,10 @@
 ---
-{"title":"Die Medienselbstverbesserungs-AG","publish":true,"path":"index.md","permalink":"/index/","PassFrontmatter":true}
+title: Die Medienselbstverbesserungs-AG
+publish: true
+path: index.md
+permalink: /index/
+PassFrontmatter: true
+description: Die offizielle Website der Medienselbstverbesserungs-AG am Gymnasium Hankensbüttel. Hier finden Sie die wichtigsten Neuigkeiten und Informationen bezüglich unserer Gemeinschaft.
 ---
 >[!info]
 > Willkommen auf der offiziellen Website der **Medienselbstverbesserungs-AG** am
