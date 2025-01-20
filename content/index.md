@@ -32,7 +32,8 @@ Unser Ziel ist es, die echte und digitale Welt durch kreatives, kritisches und t
 Unser Bei­sam­men­sein fungiert als Grundlage, worin jeder seine Fähigkeiten der Selbstmotivation und Selbstverwirklichung weiterentwickelt und zu neuen Höhen bringt.
 Solange du einen Willen hast, dich in allen Aspekten deines Lebens weiterzuentwickeln, dann bist du bei uns genau richtig. Merke aber: der Weg der Großartigkeit ist kein Zuckerschlecken. Sei bereit, dich selbst voranzutreiben, [[index#🎯 Zitate|auch wenn es im Moment unbequem seien mag, weil deine Zukunft es wert ist]]. Das ist unsere Garantie als MSV. 
 
-Es steht jedem (**ab Jg. 8**) frei, bei unseren Terminen reinzuschnuppern um über den Beitritt in unsere Gemeinschaft zu entscheiden. Rückfragen oder Anliegen sind dabei an <a href="mailto:aydrian.diz@gyhank.de">Aydrian Diz</a> zu richten.
+Es steht jedem (**ab Jg. 8**) frei, bei unseren Terminen reinzuschnuppern um über den Beitritt in unsere Gemeinschaft zu entscheiden. Rückfragen oder Anliegen sind dabei an <a href="mailto:aydrian.diz@gyhank.de">Aydrian Diz</a>
+zu richten.
 Wir freuen uns auf dich!
 
 ## ⌛Monatsplan
@@ -78,7 +79,7 @@ Wir freuen uns auf dich!
 
 > [!quote] Zitat
 > “All in or all out. Fence sitters will inevitably tip to one side, such is life. Choose, before your hand is forced.” 
-> *~ Redrix/OTG*
+> *~ OTG*
 
 ---
 ![[MSVPosterNoWhatsapp.png]]
