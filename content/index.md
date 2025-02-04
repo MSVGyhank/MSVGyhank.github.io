@@ -39,12 +39,12 @@ Wir freuen uns auf dich!
 ## ⌛Monatsplan
 ### Monat: Febraur 2025
 
-| Datum      | Ort / Raum            | Zeit / Dauer   | <br><div style="width:500px">Themen</div><br>                                                                                                                                                                                 |
-| ---------- | --------------------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 07.02.2025 | *noch festzulegen...* | 7. & 8. Stunde | Einführung und Kennenlernen; Entwicklungsprozess der AG, Interessen der Teilnehmenden                                                                                                                                         |
-| 14.02.2025 | *noch festzulegen...* | 7. & 8. Stunde | Diskurs über die Entwicklung von Medien, Medien in der Politik; Ethik von KI und Rückschluss zu Philosophie; Aufbau von Medienkompetenz, Bewusstsein und Achtsamkeit                                                          |
-| 21.02.2025 | *noch festzulegen...* | 7. & 8. Stunde | Zielsetzung im Leben; Aufbau von Disziplin durch körperlich-mentale Herausforderung; großartiges Träumen und Denken (Wie wird "Fantasie" zur Realität?)                                                                       |
-| 28.2.2025  | *noch festzulegen...* | 7. & 8. Stunde | Produktivität durch effiziente Mediennutzung; Vergleich der Tabletnutzung unter den Teilnehmenden im Bezug auf Schule; Gemeinsame Erkundigung über Programme und Workflows zur Steigerung der Produktivität, auch KI-gestützt |
+| Datum                     | Ort / Raum            | Zeit / Dauer   | <br><div style="width:500px">Themen</div><br>                                                                                                                                                                                 |
+| ------------------------- | --------------------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Erster Termin: 28.02.2025 | *noch festzulegen...* | 7. & 8. Stunde | Einführung und Kennenlernen; Entwicklungsprozess der AG, Interessen der Teilnehmenden                                                                                                                                         |
+| 07.03.2025                | *noch festzulegen...* | 7. & 8. Stunde | Diskurs über die Entwicklung von Medien, Medien in der Politik; Ethik von KI und Rückschluss zu Philosophie; Aufbau von Medienkompetenz, Bewusstsein und Achtsamkeit                                                          |
+| 14.03.2025                | *noch festzulegen...* | 7. & 8. Stunde | Zielsetzung im Leben; Aufbau von Disziplin durch körperlich-mentale Herausforderung; großartiges Träumen und Denken (Wie wird "Fantasie" zur Realität?)                                                                       |
+| 21.03.2025                | *noch festzulegen...* | 7. & 8. Stunde | Produktivität durch effiziente Mediennutzung; Vergleich der Tabletnutzung unter den Teilnehmenden im Bezug auf Schule; Gemeinsame Erkundigung über Programme und Workflows zur Steigerung der Produktivität, auch KI-gestützt |
 
 ---
 >[!info]
