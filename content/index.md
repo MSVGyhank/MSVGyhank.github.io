@@ -15,7 +15,7 @@ description: Die offizielle Website der Medienselbstverbesserungs-AG am Gymnasiu
 >Jeden Freitag in der 7. und 8. Stunde. Auf Absprache auch in der 9. und 10. (siehe [[index#⌛Monatsplan|Monatsplan]])
 > 
 > **Wo?**
-> *Noch festzulegen...*, [Gymnasium Hankensbüttel](https://gyhank.de/html/index.html) **=> Wir halten euch auf dem Laufenden!**
+> Raum C8, [Gymnasium Hankensbüttel](https://gyhank.de/html/index.html) 
 >
 > **Wer?**
 > Jahrgang 8-13, siehe [[index#👥 Mitglieder|Mitgliederliste]]
@@ -23,6 +23,9 @@ description: Die offizielle Website der Medienselbstverbesserungs-AG am Gymnasiu
 > **Kontakt?**
 >  *AG-Führung:* <a href="mailto:aydrian.diz@gyhank.de">aydrian.diz@gyhank.de</a>
 >  *Whatsapp Community:* Auf Anfrage per E-Mail oder persönlich an Aydrian Diz
+
+> [!todo] Info
+>**Der erste Termin ist auf den 28.02.2025 festgelegt!**
 
 ---
 ## 👋 Über uns
@@ -39,12 +42,12 @@ Wir freuen uns auf dich!
 ## ⌛Monatsplan
 ### Monat: Febraur 2025
 
-| Datum                     | Ort / Raum            | Zeit / Dauer   | <br><div style="width:500px">Themen</div><br>                                                                                                                                                                                 |
-| ------------------------- | --------------------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Erster Termin: 28.02.2025 | *noch festzulegen...* | 7. & 8. Stunde | Einführung und Kennenlernen; Entwicklungsprozess der AG, Interessen der Teilnehmenden                                                                                                                                         |
-| 07.03.2025                | *noch festzulegen...* | 7. & 8. Stunde | Diskurs über die Entwicklung von Medien, Medien in der Politik; Ethik von KI und Rückschluss zu Philosophie; Aufbau von Medienkompetenz, Bewusstsein und Achtsamkeit                                                          |
-| 14.03.2025                | *noch festzulegen...* | 7. & 8. Stunde | Zielsetzung im Leben; Aufbau von Disziplin durch körperlich-mentale Herausforderung; großartiges Träumen und Denken (Wie wird "Fantasie" zur Realität?)                                                                       |
-| 21.03.2025                | *noch festzulegen...* | 7. & 8. Stunde | Produktivität durch effiziente Mediennutzung; Vergleich der Tabletnutzung unter den Teilnehmenden im Bezug auf Schule; Gemeinsame Erkundigung über Programme und Workflows zur Steigerung der Produktivität, auch KI-gestützt |
+| Datum                     | Ort / Raum | Zeit / Dauer   | <br><div style="width:500px">Themen</div><br>                                                                                                                                                                                 |
+| ------------------------- | ---------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Erster Termin: 28.02.2025 | C8         | 7. & 8. Stunde | Einführung und Kennenlernen; Entwicklungsprozess der AG, Interessen der Teilnehmenden                                                                                                                                         |
+| 07.03.2025                | C8         | 7. & 8. Stunde | Diskurs über die Entwicklung von Medien, Medien in der Politik; Ethik von KI und Rückschluss zu Philosophie; Aufbau von Medienkompetenz, Bewusstsein und Achtsamkeit                                                          |
+| 14.03.2025                | C8         | 7. & 8. Stunde | Zielsetzung im Leben; Aufbau von Disziplin durch körperlich-mentale Herausforderung; großartiges Träumen und Denken (Wie wird "Fantasie" zur Realität?)                                                                       |
+| 21.03.2025                | C8         | 7. & 8. Stunde | Produktivität durch effiziente Mediennutzung; Vergleich der Tabletnutzung unter den Teilnehmenden im Bezug auf Schule; Gemeinsame Erkundigung über Programme und Workflows zur Steigerung der Produktivität, auch KI-gestützt |
 
 ---
 >[!info]
