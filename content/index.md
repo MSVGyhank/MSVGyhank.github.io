@@ -25,7 +25,7 @@ description: Die offizielle Website der Medienselbstverbesserungs-AG am Gymnasiu
 >  *Whatsapp Community:* Auf Anfrage per E-Mail oder persönlich an Aydrian Diz
 
 > [!todo] Info
->**Verschiebung: Der erste Termin ist auf den 14.03.2025 festgelegt, Raum C8!** => Dies wird zeitlich per E-Mail durch IServ bestätigt.
+>**Verschiebung: Der erste Termin ist auf den 21.03.2025 festgelegt, Raum C8!** => Dies wird zeitlich per E-Mail durch IServ bestätigt.
 
 ---
 ## 👋 Über uns
@@ -44,10 +44,10 @@ Wir freuen uns auf dich!
 
 | Datum                     | Ort / Raum | Zeit / Dauer   | <br><div style="width:500px">Themen</div><br>                                                                                                                                                                                 |
 | ------------------------- | ---------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Erster Termin: 14.03.2025 | C8         | 7. & 8. Stunde | Einführung und Kennenlernen; Entwicklungsprozess der AG, Interessen der Teilnehmenden                                                                                                                                         |
-| 21.03.2025                | C8         | 7. & 8. Stunde | Diskurs über die Entwicklung von Medien, Medien in der Politik; Ethik von KI und Rückschluss zu Philosophie; Aufbau von Medienkompetenz, Bewusstsein und Achtsamkeit                                                          |
-| 28.03.2025                | C8         | 7. & 8. Stunde | Zielsetzung im Leben; Aufbau von Disziplin durch körperlich-mentale Herausforderung; großartiges Träumen und Denken (Wie wird "Fantasie" zur Realität?)                                                                       |
-| 04.04.2025                | C8         | 7. & 8. Stunde | Produktivität durch effiziente Mediennutzung; Vergleich der Tabletnutzung unter den Teilnehmenden im Bezug auf Schule; Gemeinsame Erkundigung über Programme und Workflows zur Steigerung der Produktivität, auch KI-gestützt |
+| Erster Termin: 21.03.2025 | C8         | 7. & 8. Stunde | Einführung und Kennenlernen; Entwicklungsprozess der AG, Interessen der Teilnehmenden                                                                                                                                         |
+| 28.03.2025                | C8         | 7. & 8. Stunde | Diskurs über die Entwicklung von Medien, Medien in der Politik; Ethik von KI und Rückschluss zu Philosophie; Aufbau von Medienkompetenz, Bewusstsein und Achtsamkeit                                                          |
+| 04.04.2025                | C8         | 7. & 8. Stunde | Zielsetzung im Leben; Aufbau von Disziplin durch körperlich-mentale Herausforderung; großartiges Träumen und Denken (Wie wird "Fantasie" zur Realität?)                                                                       |
+| 11.04.2025                | C8         | 7. & 8. Stunde | Produktivität durch effiziente Mediennutzung; Vergleich der Tabletnutzung unter den Teilnehmenden im Bezug auf Schule; Gemeinsame Erkundigung über Programme und Workflows zur Steigerung der Produktivität, auch KI-gestützt |
 
 ---
 >[!info]
