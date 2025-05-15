@@ -12,7 +12,7 @@ description: Die offizielle Website der Medienselbstverbesserungs-AG am Gymnasiu
 
 >[!Abstract] Wichtiges
 >**Wann?**
->Jeden Freitag in der 7. und 8. Stunde. Auf Absprache auch in der 9. und 10. 
+>Jeden Freitag in der 7. und 8. Stunde. Auf Absprache auch in der 9. und 10. (siehe [[index#⌛Monatsplan|Monatsplan]])
 > 
 > **Wo?**
 > Raum C8, [Gymnasium Hankensbüttel](https://gyhank.de/html/index.html) 
@@ -26,7 +26,7 @@ description: Die offizielle Website der Medienselbstverbesserungs-AG am Gymnasiu
 
 ---
 ## 👋 Über uns
-Wir sind das Team der **MSV-AG**. 
+Wir sind das [[index#👥 Mitglieder|Team]] der **MSV-AG**. 
 Die jungen Generationen sind die Zukunft einer immer rasanter-verändernden Welt. Deswegen ist es für uns umso wichtiger, dass wir uns mit der Zukunft auseinandersetzen und dafür arbeiten, dass wir am Steuer sitzen, statt es einer unbekümmerten Welt zu überlassen.
 Unser Ziel ist es, die echte und digitale Welt durch kreatives, kritisches und tiefes Denken und Handeln zu meistern. Wir bilden eine Gemeinschaft, die allen den Raum und die Werkzeuge geben, ihre Träume zu realisieren, indem sie ihre Umgebung effizient und produktiv nutzen. Gemeinsam behandeln wir Themen wie Selbstverbesserung, Sport und Fitness, Disziplin,  Produktivität, Spiritualität, Religion, Philosophie, Ethik, Informatik, Content Creation, Medien und künstliche Intelligenz. Unsere Aktivitäten orientieren sich dabei an den Interessen unserer Miglieder mit dem Potenzial, alle möglichen Unterthemen zu untersuchen, sodass ja keine Lücke offen bleibt.
 Unser Bei­sam­men­sein fungiert als Grundlage, worin jeder seine Fähigkeiten der Selbstmotivation und Selbstverwirklichung weiterentwickelt und zu neuen Höhen bringt.
@@ -36,7 +36,23 @@ Es steht jedem (**ab Jg. 8**) frei, bei unseren Terminen reinzuschnuppern um üb
 zu richten.
 Wir freuen uns auf dich!
 
+## ⌛Monatsplan
+### Monat: Febraur 2025
+
+| Datum                     | Ort / Raum | Zeit / Dauer   | <br><div style="width:500px">Themen</div><br>                                                                                                                                                                                 |
+| ------------------------- | ---------- | -------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Erster Termin: 04.04.2025 | C8         | 7. & 8. Stunde | Einführung und Bekanntmachung; Entwicklungsprozess der AG, Interessen der Teilnehmenden                                                                                                                                       |
+| 25.04.2025                | C8         | 7. & 8. Stunde | Diskurs über die Entwicklung von Medien, Medien in der Politik; Ethik von KI und Rückschluss zu Philosophie; Aufbau von Medienkompetenz, Bewusstsein und Achtsamkeit                                                          |
+| 09.05.2025                | C8         | 7. & 8. Stunde | Zielsetzung im Leben; Aufbau von Disziplin durch körperlich-mentale Herausforderung; großartiges Träumen und Denken (Wie wird "Fantasie" zur Realität?)                                                                       |
+| 16.05.2025                | C8         | 7. & 8. Stunde | Produktivität durch effiziente Mediennutzung; Vergleich der Tabletnutzung unter den Teilnehmenden im Bezug auf Schule; Gemeinsame Erkundigung über Programme und Workflows zur Steigerung der Produktivität, auch KI-gestützt |
+
 ---
+>[!info]
+> *7. bis 8. Stunde* => 14:20-15:55 Uhr
+> *9. bis 10. Stunde* => 16:00-17:30 Uhr  
+
+## 👥 Mitglieder
+*Noch hinzuzufügen...*
 
 ## 🎯 Zitate
 > [!info]
